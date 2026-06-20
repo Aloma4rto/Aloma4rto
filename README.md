@@ -4,7 +4,7 @@
     <h1 style="color: #36BCF7; font-family: 'Fira Code', monospace; font-size: 3em; margin: 0; text-shadow: 0px 0px 5px #36BCF7;">
       Enzo Alves de Souza 
     </h1>
-    <p style="color: #666; font-size: 0.9em; margin: 5px 0 0 0;">( Estudante de ADS )</p>
+    <p style="color: #666; font-size: 0.9em; margin: 5px 0 0 0;">( Estudante de ADS 3°Ciclo )</p>
   </div>
 
   <a href="https://git.io/typing-svg">
