@@ -110,7 +110,7 @@ Atualmente estudo através da plataforma DIO (Digital Innovation One), aprofunda
 ## 🌎 Vamos nos conectar
 
 * GitHub: https://github.com/SEU_USUARIO
-* LinkedIn: SEU_LINKEDIN
+* LinkedIn: https://www.linkedin.com/in/enzo-alves-de-souza-646537389/
 
 ---
 
