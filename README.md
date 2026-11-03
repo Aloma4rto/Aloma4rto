@@ -11,8 +11,6 @@
   </a>
 
 </div>
-#
-
 Estudante de Tecnologia apaixonado por Inteligência Artificial, Desenvolvimento de Software e Agentes Autônomos.
 
 Atualmente estou construindo minha jornada na área de desenvolvimento, focando em tecnologias modernas relacionadas a:
